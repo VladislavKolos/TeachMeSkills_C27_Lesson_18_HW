@@ -27,6 +27,7 @@ public class DecisionLogic {
                     int randomNumber = (int) (Math.random() * 10);
                     numbers.add(randomNumber);
                 }
+
                 List<Integer> integers1 = numbers.stream()
                         .sorted()
                         .distinct()
