@@ -11,7 +11,7 @@ Application contains:
 
 2. **Task #2**
 
-The program creates a collection with the names of all students in the TMS_C27_onl group.
+The program creates a collection with the names of all students in the TMS_C27_onl group. 
 Application contains:
 - Class **"DecisionLogic"** with private constructor which does not allow creating objects of this class;
 - Class **"DecisionLogic"** which contains static void method **"logicImplementations"** which create a collection and fill it the names of all students in the TMS_C27 onl group, using **"Stream"**, all values of the collection are converted to lowercase, values starting with "a" are selected, the collection of these values is sorted and the first element of this collection is displayed;
